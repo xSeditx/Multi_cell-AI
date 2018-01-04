@@ -1,0 +1,12 @@
+
+Jan 2 
+Started build
+
+Jan 3
+Added Sight, Hit Some basic other functions to handle manipution and wrapping of data in Multicell class
+Consideration is being made if Cell class is needed at all but will probably keep in for future implimentations.
+
+
+
+4:36am Jan 4
+Finished as getting ready to Add the main loop. Hitfunction needs to be handled 
